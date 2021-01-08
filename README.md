@@ -1,2 +1,2 @@
-# apache_spark_notes
-cheat sheet and general notes on using pyspark
+# notes - apache spark
+cheat sheet & general info on spark & pyspark
